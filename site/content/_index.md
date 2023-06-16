@@ -8,7 +8,6 @@ blurb:
 intro:
   heading: jgh
   text: jh
-products: []
 values:
   heading: gfdg
   text: |
